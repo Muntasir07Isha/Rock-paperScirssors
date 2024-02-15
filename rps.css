@@ -1,0 +1,18 @@
+body{
+    background: black;
+    color: white;
+    margin: 5;
+    padding: 15;
+    width: auto;
+}
+h1{
+    font-family: "Protest Strike", sans-serif;
+    color: goldenrod;
+    text-shadow:  0 2px white;
+    font-family: "Protest Strike", sans-serif;
+    border: 2px solid white;
+    
+}
+.pchoice{
+    border: 2px solid white;
+}
